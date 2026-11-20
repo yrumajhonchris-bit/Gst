@@ -1,0 +1,8 @@
+{
+  "name": "Remix GHA Portal — Global Hotel Alliance",
+  "description": "Global Hotel Alliance Marketing Corp employee task, hospitality rating, wealth fund, and team rewards portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
